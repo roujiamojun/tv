@@ -891,6 +891,14 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
+团团的可爱日常,#genre#
+哈哈哈哈哈,http://nas.lovelytuaner.top:5000/Items/9655ffc98a295032cc39376d3f256b2a/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+本宝宝困了,http://nas.lovelytuaner.top:5000/Items/ed251c7f8918d31d220d65b2990f8c79/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+半岁啦,http://nas.lovelytuaner.top:5000/Items/eadf94807a44743c9430f92ea6fcce58/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+左右开弓,http://nas.lovelytuaner.top:5000/Items/14a440af877f2515ce42a18bb9fe4bd7/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+爱学习的宝宝,http://nas.lovelytuaner.top:5000/Items/d47e6e2c3ce8c727526372b9c6200771/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+
+
 故乡，别来无恙,#genre#
 18：董家希丢兼职，张沛老同学聚会,http://nas.lovelytuaner.top:5000/Items/0e2b6fa5ab5da26280dee0c291c58467/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 19：苟丹丹齐璞合作直播，董家希失业,http://nas.lovelytuaner.top:5000/Items/0773b50d1c8ea5599fdf7462800b0ab3/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
@@ -911,3 +919,5 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 34:董家希作品获奖，苟丹丹示爱齐璞,http://nas.lovelytuaner.top:5000/Items/9feae5351f19943c0f3d2ffa453fda6c/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 35:丁玉兰离世，吴芸刘文山和好,http://nas.lovelytuaner.top:5000/Items/55c3ec210d4cd95be518473cd7d4ce79/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 36:刘枫事业登顶，闺蜜团结束单身,http://nas.lovelytuaner.top:5000/Items/7e956716f743c6cd52756a44b74c285d/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+
+
