@@ -899,12 +899,11 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 左右开弓,http://nas.lovelytuaner.top:5000/Items/14a440af877f2515ce42a18bb9fe4bd7/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 爱学习的宝宝,http://nas.lovelytuaner.top:5000/Items/d47e6e2c3ce8c727526372b9c6200771/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 
-画眉,#genre#
-34集,http://nas.lovelytuaner.top:5000/Items/2364c298f88d8b55952be35cbbabc614/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-35集,http://nas.lovelytuaner.top:5000/Items/6553fa7e25033c68ab361c6c56f95c4f/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-36集,http://nas.lovelytuaner.top:5000/Items/f9aac7960508d72004d5bb1323a0ec4d/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-37集,http://nas.lovelytuaner.top:5000/Items/c54ecfe68ae7e8a8ffe6c4bce2e2dcb3/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-38集,http://nas.lovelytuaner.top:5000/Items/dd172370a49355c51dbce8da67c62bfa/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+繁花,#genre#
+第1集,http://192.168.100.1:8096/Items/587957ef1cd455993f8ea1886ab14818/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
+第2集,http://192.168.100.1:8096/Items/6c585baa525ef96601c5eb5d2727141a/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
+第3集,http://192.168.100.1:8096/Items/45f7e7fd66d49a1ace79780f132b67a5/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
+第4集,http://192.168.100.1:8096/Items/923839c088ad02741297d8bf92b4cb7c/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
 
 
 主持人大赛,#genre#
