@@ -1,8 +1,8 @@
 央视频道,#genre#
-CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
+CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
@@ -1046,14 +1046,6 @@ NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-
-团团的可爱日常,#genre#
-会喊爸爸啦,http://nas.lovelytuaner.top:5000/Items/99c41e8ae77b5b5a6be10950c0c0f76b/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-哈哈哈哈哈,http://nas.lovelytuaner.top:5000/Items/9655ffc98a295032cc39376d3f256b2a/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-本宝宝困了,http://nas.lovelytuaner.top:5000/Items/ed251c7f8918d31d220d65b2990f8c79/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-半岁啦,http://nas.lovelytuaner.top:5000/Items/eadf94807a44743c9430f92ea6fcce58/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-左右开弓,http://nas.lovelytuaner.top:5000/Items/14a440af877f2515ce42a18bb9fe4bd7/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-爱学习的宝宝,http://nas.lovelytuaner.top:5000/Items/d47e6e2c3ce8c727526372b9c6200771/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 
 主持人大赛,#genre#
 第1期：新声集结，60位选手为梦而战,http://nas.lovelytuaner.top:5000/Items/af65a88f5c8f62f7027c2f856c1efcad/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
