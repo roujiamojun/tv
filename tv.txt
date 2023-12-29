@@ -3,6 +3,7 @@ CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227163/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8
 CCTV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+CCTV1, http://angtv.cc/test/ysp.php?id=cctv4k
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226306/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226466/index.m3u8
 CCTV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
