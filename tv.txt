@@ -1052,6 +1052,9 @@ NewTV超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/
 NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 
+团团的可爱日常_0603,#genre#
+爱学习的宝宝,http://nas.lovelytuaner.top:5000/Items/d47e6e2c3ce8c727526372b9c6200771/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+
 主持人大赛,#genre#
 第1期：新声集结，60位选手为梦而战,http://nas.lovelytuaner.top:5000/Items/af65a88f5c8f62f7027c2f856c1efcad/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第2期：许吉如即兴主持获撒贝宁点赞,http://nas.lovelytuaner.top:5000/Items/915a0db2f45d1a41df6f39639f11db4e/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
