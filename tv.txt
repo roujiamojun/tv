@@ -174,17 +174,6 @@ CCTV13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/i
 CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV15,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV2,http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8
-CCTV4,http://221.2.36.34:8888/newlive/live/hls/5/live.m3u8
-CCTV5+,http://221.2.36.34:8888/newlive/live/hls/7/live.m3u8
-CCTV7,http://221.2.36.34:8888/newlive/live/hls/9/live.m3u8
-CCTV9,http://221.2.36.34:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://221.2.36.34:8888/newlive/live/hls/12/live.m3u8
-CCTV11,http://221.2.36.34:8888/newlive/live/hls/13/live.m3u8
-CCTV13,http://221.2.36.34:8888/newlive/live/hls/15/live.m3u8
-CCTV15,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://221.2.36.34:8888/newlive/live/hls/18/live.m3u8
-CCTV17,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV3,http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
 CCTV5,http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
