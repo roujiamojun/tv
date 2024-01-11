@@ -765,6 +765,12 @@ CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
+电影轮播,#genre#
+华语电影,http://epg.112114.xyz/douyu/3928
+华语经典,http://epg.112114.xyz/douyu/434971
+经典电影,http://epg.112114.xyz/douyu/74374
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
+
 主持人大赛,#genre#
 第1期：新声集结，60位选手为梦而战,http://nas.lovelytuaner.top:5000/Items/af65a88f5c8f62f7027c2f856c1efcad/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第2期：许吉如即兴主持获撒贝宁点赞,http://nas.lovelytuaner.top:5000/Items/915a0db2f45d1a41df6f39639f11db4e/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
@@ -803,14 +809,3 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 第22集：程兵做快递员收集新线索,http://nas.lovelytuaner.top:5000/Items/c1944beb919f24359166196a94e1ef7a/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第23集：抓住你了王大勇！,http://nas.lovelytuaner.top:5000/Items/b9630a170c1b820deba86fe62f4d0da7/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第24集：王大勇被审判,http://nas.lovelytuaner.top:5000/Items/22258f4e9f72532cb6888a96e1639ceb/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-
-测试,#genre#
-「轮播」华语电影,http://epg.112114.xyz/douyu/3928
-「轮播」华语经典,http://epg.112114.xyz/douyu/434971
-「轮播」高帧电影,http://epg.112114.xyz/douyu/6763930
-动漫轮播童年动漫点播,http://epg.112114.xyz/douyu/7256376
-「轮播」经典电影,http://epg.112114.xyz/douyu/74374
-「轮播」豆瓣高分,http://epg.112114.xyz/douyu/8770422
-电视剧轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
-「轮播」蓝光大片,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
-「轮播」经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
