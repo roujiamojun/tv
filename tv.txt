@@ -735,6 +735,7 @@ CCTV8K超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLT
 宝宝动画,http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
 戏曲精选,http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
+特辑电影院,https://www.goodiptv.club/douyu/3637778
 
 IHOT频道,#genre#
 IHOT爱电竞,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
@@ -809,6 +810,24 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 华语经典,http://epg.112114.xyz/douyu/434971
 经典电影,http://epg.112114.xyz/douyu/74374
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
+
+测试,#genre#
+港片,https://lunbo.freetv.top/yy/1459901192
+武侠电影,https://lunbo.freetv.top/yy/1451866697
+金庸经典,https://lunbo.freetv.top/yy/1382704651
+林正英经典,https://lunbo.freetv.top/yy/1353312849
+倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
+成龙经典,https://lunbo.freetv.top/yy/34460526
+经典港片,https://lunbo.freetv.top/yy/1353059120
+精彩影视轮番上映,https://lunbo.freetv.top/yy/1355336008
+经典影视剧系列,https://lunbo.freetv.top/yy/1356338181
+科幻大片,https://lunbo.freetv.top/yy/1382745181
+国外院线动作大片,https://lunbo.freetv.top/yy/1382735570
+国内喜剧电影合集，https://lunbo.freetv.top/yy/1382851137
+国内动作电影,https://lunbo.freetv.top/yy/1382745176
+侦探烧脑电影-悬疑,https://lunbo.freetv.top/yy/1382735543
+经典好看,https://lunbo.freetv.top/yy/1356337497
+24H轮播,https://lunbo.freetv.top/yy/1382843075
 
 主持人大赛,#genre#
 第1期：新声集结，60位选手为梦而战,http://nas.lovelytuaner.top:5000/Items/af65a88f5c8f62f7027c2f856c1efcad/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
