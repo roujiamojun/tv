@@ -773,6 +773,8 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 华语电影,http://epg.112114.xyz/douyu/3928
 经典电影,http://epg.112114.xyz/douyu/74374
+特辑电影,http://epg.112114.xyz/douyu/3637778
+神乐影片,http://epg.112114.xyz/douyu/122402
 武侠电影,https://lunbo.freetv.top/yy/1451866697
 经典港片,https://lunbo.freetv.top/yy/1353059120
 精彩影视,https://lunbo.freetv.top/yy/1355336008
@@ -784,7 +786,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 虎牙影院,https://www.goodiptv.club/huya/11601968
 全球大片,http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
 热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
-特辑电影,https://www.goodiptv.club/douyu/3637778
+
 
 4K频道,#genre#
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
