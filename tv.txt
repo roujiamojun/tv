@@ -806,7 +806,7 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 华数4K影视,http://r.jdshipin.com/Lqdwf
 华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=wasusyt&id=6000000003000004748
-
+斗鱼4K影视,https://www.goodiptv.club/douyu/9249162
 主持人大赛,#genre#
 第1期：新声集结，60位选手为梦而战,http://nas.lovelytuaner.top:5000/Items/af65a88f5c8f62f7027c2f856c1efcad/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第2期：许吉如即兴主持获撒贝宁点赞,http://nas.lovelytuaner.top:5000/Items/915a0db2f45d1a41df6f39639f11db4e/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
