@@ -642,8 +642,8 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-43359
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
 
 凤凰中文,http://113.117.74.45:8081/hls/37/index.m3u8
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8
+凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.js.chinamobile.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/TVOD/3/224/3221228527/index.m3u8?/TVOD/.smil
@@ -848,13 +848,6 @@ CHC高清电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLT
 第23集：抓住你了王大勇！,http://nas.lovelytuaner.top:5000/Items/b9630a170c1b820deba86fe62f4d0da7/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 第24集：王大勇被审判,http://nas.lovelytuaner.top:5000/Items/22258f4e9f72532cb6888a96e1639ceb/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
 
-黑土无言,#genre#
-第1集,http://nas.lovelytuaner.top:5000/Items/3359586a9e771e4002fc23dd31377ee2/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第2集,http://nas.lovelytuaner.top:5000/Items/49b0d06c63dc878c13e0cbb221960d88/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第3集,http://nas.lovelytuaner.top:5000/Items/a2f89c70b578d4d687cf124547e3a49f/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第4集,http://nas.lovelytuaner.top:5000/Items/b69d4f5cfefad2a967fac431629178e1/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第5集,http://nas.lovelytuaner.top:5000/Items/cdee6919a44e582ddfda6761a2e496e9/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第6集,http://nas.lovelytuaner.top:5000/Items/0f9da396c4ef587a56b6cf39a4b590be/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第7集,http://nas.lovelytuaner.top:5000/Items/8a0bbe0f43a3cf97d038741665906b67/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第8集,http://nas.lovelytuaner.top:5000/Items/733f192cbd9d016c0de7369d4ec72333/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
-第9集,
+中东大宝鉴,#genre#
+迦南孤儿,http://nas.lovelytuaner.top:5000/Items/cd62bede4e32430ba3d23bf0712434bd/Download?api_key=45635d27f5124d5e8152ba72591bb1a6
+
