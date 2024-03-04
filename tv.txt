@@ -849,4 +849,5 @@ cctv3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/32
 斗鱼4K影视,https://www.goodiptv.club/douyu/9249162
 
 贝乐虎儿歌,#genre#
-贝乐虎儿歌,http://192.168.100.1:8096/Items/e024efb13ebee2dbf963051d89d940aa/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
+两只老虎+更多,http://192.168.100.1:8096/Items/88ff315496c6c2c2261bb0fee38f0fe2/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
+拔萝卜+更多,http://192.168.100.1:8096/Items/16db8ba39936eb2d3effb6b8179a6bf3/Download?api_key=b03e0329153f4f8bb0fcc7e4d1d54ca3
