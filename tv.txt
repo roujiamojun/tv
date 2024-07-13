@@ -222,11 +222,9 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
 河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
 河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 河南民生,http://[2409:8087:4402:20:1:1216:401:45]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226685/index.m3u8
 河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226435/index.m3u8
 河南法治,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
-河南乡村,http:///iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
 河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
