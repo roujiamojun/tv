@@ -120,13 +120,13 @@ CCTV17,http://tv.lovelytuaner.top:33455/itv/1000000005000265015.m3u8?cdn=ystenli
 轮播,#genre#
 
 豆瓣高分,http://tv.lovelytuaner.top:33455/douyu/8770422
-动作,http://tv.lovelytuaner.top:33455/huya/19807776
-科幻,http://tv.lovelytuaner.top:33455/douyu/4332
-华语,http://tv.lovelytuaner.top:33455/douyu/276200
-港片,http://tv.lovelytuaner.top:33455/douyu/12143022
-欧美1,http://tv.lovelytuaner.top:33455/douyu/36337
-欧美2,http://tv.lovelytuaner.top:33455/douyu/252802
-欧美3,http://tv.lovelytuaner.top:33455/douyu/20415
+动作电影,http://tv.lovelytuaner.top:33455/huya/19807776
+科幻电影,http://tv.lovelytuaner.top:33455/douyu/4332
+华语电影,http://tv.lovelytuaner.top:33455/douyu/276200
+香港电影,http://tv.lovelytuaner.top:33455/douyu/12143022
+欧美电影1,http://tv.lovelytuaner.top:33455/douyu/36337
+欧美电影2,http://tv.lovelytuaner.top:33455/douyu/252802
+欧美电影3,http://tv.lovelytuaner.top:33455/douyu/20415
 
 
 
