@@ -283,23 +283,16 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 河南乡村,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226566/index.m3u8
 河南公共,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226441/index.m3u8
-河南功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
-河南功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 河南国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226588/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
-河南文博,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8
-河南文博,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
+河南梨园,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+河南梨园,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
 河南电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
 河南电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226521/index.m3u8
-河南睛彩中原,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
-河南睛彩中原,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
+河南梨园,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/index.m3u8
+河南梨园,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
 河南电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
 河南国际,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226434/index.m3u8?servicetype=1
-河南教育,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221227244/index.m3u8?servicetype=1
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8
 舞阳新闻综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
@@ -319,13 +312,13 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 电影轮播,#genre#
 
 豆瓣高分,http://tv.lovelytuaner.top:33455/douyu/8770422
-动作,http://tv.lovelytuaner.top:33455/huya/19807776
-科幻,http://tv.lovelytuaner.top:33455/douyu/4332
-华语,http://tv.lovelytuaner.top:33455/douyu/276200
-港片,http://tv.lovelytuaner.top:33455/douyu/12143022
-欧美1,http://tv.lovelytuaner.top:33455/douyu/36337
-欧美2,http://tv.lovelytuaner.top:33455/douyu/252802
-欧美3,http://tv.lovelytuaner.top:33455/douyu/20415
+动作电影,http://tv.lovelytuaner.top:33455/huya/19807776
+科幻电影,http://tv.lovelytuaner.top:33455/douyu/4332
+华语电影,http://tv.lovelytuaner.top:33455/douyu/276200
+香港电影,http://tv.lovelytuaner.top:33455/douyu/12143022
+欧美电影1,http://tv.lovelytuaner.top:33455/douyu/36337
+欧美电影2,http://tv.lovelytuaner.top:33455/douyu/252802
+欧美电影3,http://tv.lovelytuaner.top:33455/douyu/20415
 
 NewTV,#genre#
 
