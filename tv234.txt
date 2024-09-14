@@ -130,37 +130,37 @@ CCTV17,http://tv.lovelytuaner.top:33455/itv/1000000005000265015.m3u8?cdn=ystenli
 
 
 
-NEWTV,#genre#
+NewTV,#genre#
 
-NEWTV精品综合,http://tv.lovelytuaner.top:33455/itv/1000000004000019008.m3u8?cdn=ystenlive
-NEWTV精品大剧,http://tv.lovelytuaner.top:33455/itv/1000000004000013968.m3u8?cdn=ystenlive
-NEWTV精品纪录,http://tv.lovelytuaner.top:33455/itv/1000000004000013730.m3u8?cdn=ystenlive
-NEWTV精品体育,http://tv.lovelytuaner.top:33455/itv/1000000004000014634.m3u8?cdn=ystenlive
-NEWTV精品萌宠,http://tv.lovelytuaner.top:33455/itv/1000000006000032328.m3u8?cdn=ystenlive
-NEWTV爱情喜剧,http://tv.lovelytuaner.top:33455/itv/2000000003000000010.m3u8?cdn=hnbblive
-NEWTV超级电视剧,http://tv.lovelytuaner.top:33455/itv/1000000006000268003.m3u8?cdn=ystenlive
-NEWTV超级电影,http://tv.lovelytuaner.top:33455/itv/1000000003000012426.m3u8?cdn=ystenlive
-NEWTV超级体育,http://tv.lovelytuaner.top:33455/itv/1000000001000009601.m3u8?cdn=ystenlive
-NEWTV超级综艺,http://tv.lovelytuaner.top:33455/itv/1000000006000268002.m3u8?cdn=ystenlive
-NEWTV潮妈辣婆,http://tv.lovelytuaner.top:33455/itv/2000000003000000018.m3u8?cdn=hnbblive
-NEWTV东北热剧,http://tv.lovelytuaner.top:33455/itv/1000000005000266013.m3u8?cdn=ystenlive
-NEWTV动作电影,http://tv.lovelytuaner.top:33455/itv/1000000004000018653.m3u8?cdn=ystenlive
-NEWTV古装剧场,http://tv.lovelytuaner.top:33455/itv/2000000003000000024.m3u8?cdn=hnbblive
-NEWTV欢乐剧场,http://tv.lovelytuaner.top:33455/itv/1000000005000266012.m3u8?cdn=ystenlive
-NEWTV家庭剧场,http://tv.lovelytuaner.top:33455/itv/1000000004000008284.m3u8?cdn=ystenlive
-NEWTV金牌综艺,http://tv.lovelytuaner.top:33455/itv/1000000004000026167.m3u8?cdn=ystenlive
-NEWTV惊悚悬疑,http://tv.lovelytuaner.top:33455/itv/1000000004000024282.m3u8?cdn=ystenlive
-NEWTV军旅剧场,http://tv.lovelytuaner.top:33455/itv/2000000003000000014.m3u8?cdn=hnbblive
-NEWTV军事评论,http://tv.lovelytuaner.top:33455/itv/2000000003000000022.m3u8?cdn=hnbblive
-NEWTV魅力潇湘,http://tv.lovelytuaner.top:33455/itv/1000000001000006197.m3u8?cdn=ystenlive
-NEWTV明星大片,http://tv.lovelytuaner.top:33455/itv/2000000003000000016.m3u8?cdn=hnbblive
-NEWTV农业致富,http://tv.lovelytuaner.top:33455/itv/2000000003000000003.m3u8?cdn=hnbblive
-NEWTV武博世界,http://tv.lovelytuaner.top:33455/itv/2000000003000000007.m3u8?cdn=hnbblive
-NEWTV炫舞未来,http://tv.lovelytuaner.top:33455/itv/1000000001000000515.m3u8?cdn=ystenlive
-NEWTV怡伴健康,http://tv.lovelytuaner.top:33455/itv/1000000005000266011.m3u8?cdn=ystenlive
-NEWTV中国功夫,http://tv.lovelytuaner.top:33455/itv/2000000003000000009.m3u8?cdn=hnbblive
-NEWTV黑莓电影,http://tv.lovelytuaner.top:33455/itv/1000000004000019624.m3u8?cdn=ystenlive
-NEWTV黑莓动画,http://tv.lovelytuaner.top:33455/itv/1000000004000021734.m3u8?cdn=ystenlive
+NewTV精品综合,http://tv.lovelytuaner.top:33455/itv/1000000004000019008.m3u8?cdn=ystenlive
+NewTV精品大剧,http://tv.lovelytuaner.top:33455/itv/1000000004000013968.m3u8?cdn=ystenlive
+NewTV精品纪录,http://tv.lovelytuaner.top:33455/itv/1000000004000013730.m3u8?cdn=ystenlive
+NewTV精品体育,http://tv.lovelytuaner.top:33455/itv/1000000004000014634.m3u8?cdn=ystenlive
+NewTV精品萌宠,http://tv.lovelytuaner.top:33455/itv/1000000006000032328.m3u8?cdn=ystenlive
+NewTV爱情喜剧,http://tv.lovelytuaner.top:33455/itv/2000000003000000010.m3u8?cdn=hnbblive
+NewTV超级电视剧,http://tv.lovelytuaner.top:33455/itv/1000000006000268003.m3u8?cdn=ystenlive
+NewTV超级电影,http://tv.lovelytuaner.top:33455/itv/1000000003000012426.m3u8?cdn=ystenlive
+NewTV超级体育,http://tv.lovelytuaner.top:33455/itv/1000000001000009601.m3u8?cdn=ystenlive
+NewTV超级综艺,http://tv.lovelytuaner.top:33455/itv/1000000006000268002.m3u8?cdn=ystenlive
+NewTV潮妈辣婆,http://tv.lovelytuaner.top:33455/itv/2000000003000000018.m3u8?cdn=hnbblive
+NewTV东北热剧,http://tv.lovelytuaner.top:33455/itv/1000000005000266013.m3u8?cdn=ystenlive
+NewTV动作电影,http://tv.lovelytuaner.top:33455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV古装剧场,http://tv.lovelytuaner.top:33455/itv/2000000003000000024.m3u8?cdn=hnbblive
+NewTV欢乐剧场,http://tv.lovelytuaner.top:33455/itv/1000000005000266012.m3u8?cdn=ystenlive
+NewTV家庭剧场,http://tv.lovelytuaner.top:33455/itv/1000000004000008284.m3u8?cdn=ystenlive
+NewTV金牌综艺,http://tv.lovelytuaner.top:33455/itv/1000000004000026167.m3u8?cdn=ystenlive
+NewTV惊悚悬疑,http://tv.lovelytuaner.top:33455/itv/1000000004000024282.m3u8?cdn=ystenlive
+NewTV军旅剧场,http://tv.lovelytuaner.top:33455/itv/2000000003000000014.m3u8?cdn=hnbblive
+NewTV军事评论,http://tv.lovelytuaner.top:33455/itv/2000000003000000022.m3u8?cdn=hnbblive
+NewTV魅力潇湘,http://tv.lovelytuaner.top:33455/itv/1000000001000006197.m3u8?cdn=ystenlive
+NewTV明星大片,http://tv.lovelytuaner.top:33455/itv/2000000003000000016.m3u8?cdn=hnbblive
+NewTV农业致富,http://tv.lovelytuaner.top:33455/itv/2000000003000000003.m3u8?cdn=hnbblive
+NewTV武博世界,http://tv.lovelytuaner.top:33455/itv/2000000003000000007.m3u8?cdn=hnbblive
+NewTV炫舞未来,http://tv.lovelytuaner.top:33455/itv/1000000001000000515.m3u8?cdn=ystenlive
+NewTV怡伴健康,http://tv.lovelytuaner.top:33455/itv/1000000005000266011.m3u8?cdn=ystenlive
+NewTV中国功夫,http://tv.lovelytuaner.top:33455/itv/2000000003000000009.m3u8?cdn=hnbblive
+NewTV黑莓电影,http://tv.lovelytuaner.top:33455/itv/1000000004000019624.m3u8?cdn=ystenlive
+NewTV黑莓动画,http://tv.lovelytuaner.top:33455/itv/1000000004000021734.m3u8?cdn=ystenlive
 
 
 
