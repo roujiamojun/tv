@@ -157,7 +157,6 @@ CCTV17,http://192.168.100.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 
 NEWTV,#genre#
 
-NewTV精品综合,http://192.168.100.1:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 NewTV精品大剧,http://192.168.100.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 NewTV精品纪录,http://192.168.100.1:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 NewTV精品体育,http://192.168.100.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
@@ -186,8 +185,7 @@ NewTV怡伴健康,http://192.168.100.1:35455/itv/1000000005000266011.m3u8?cdn=ys
 NewTV中国功夫,http://192.168.100.1:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
 NewTV黑莓电影,http://192.168.100.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV黑莓动画,http://192.168.100.1:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-NewTV哒啵电竞,http://192.168.100.1:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-NewTV哒啵赛事,http://192.168.100.1:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
+
 
 
 IHOT,#genre#
