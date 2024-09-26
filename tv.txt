@@ -321,7 +321,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
 NewTV,#genre#
 
-NewTV精品综合,http://tv.lovelytuaner.top:33455/itv/1000000004000019008.m3u8?cdn=ystenlive
 NewTV精品大剧,http://tv.lovelytuaner.top:33455/itv/1000000004000013968.m3u8?cdn=ystenlive
 NewTV精品纪录,http://tv.lovelytuaner.top:33455/itv/1000000004000013730.m3u8?cdn=ystenlive
 NewTV精品体育,http://tv.lovelytuaner.top:33455/itv/1000000004000014634.m3u8?cdn=ystenlive
