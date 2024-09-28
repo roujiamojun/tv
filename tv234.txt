@@ -148,7 +148,6 @@ CCTV17,http://tv.lovelytuaner.top:33455/itv/1000000005000265015.m3u8?cdn=ystenli
 电影轮播,#genre#
 
 豆瓣高分,http://tv.lovelytuaner.top:33455/douyu/8770422
-动作电影,http://tv.lovelytuaner.top:33455/huya/19807776
 科幻电影,http://tv.lovelytuaner.top:33455/douyu/4332
 华语电影,http://tv.lovelytuaner.top:33455/douyu/276200
 香港电影,http://tv.lovelytuaner.top:33455/douyu/12143022
