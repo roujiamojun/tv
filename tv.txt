@@ -313,7 +313,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 电影轮播,#genre#
 
 豆瓣高分,http://tv.lovelytuaner.top:33455/douyu/8770422
-动作电影,http://tv.lovelytuaner.top:33455/huya/19807776
 科幻电影,http://tv.lovelytuaner.top:33455/douyu/4332
 华语电影,http://tv.lovelytuaner.top:33455/douyu/276200
 香港电影,http://tv.lovelytuaner.top:33455/douyu/12143022
