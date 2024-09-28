@@ -272,7 +272,8 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 河南频道,#genre#
-河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+河南4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河南4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
 河南新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
