@@ -182,7 +182,6 @@ NewTV军事评论,http://tv.lovelytuaner.top:33455/itv/2000000003000000022.m3u8?
 NewTV魅力潇湘,http://tv.lovelytuaner.top:33455/itv/1000000001000006197.m3u8?cdn=ystenlive
 NewTV明星大片,http://tv.lovelytuaner.top:33455/itv/2000000003000000016.m3u8?cdn=hnbblive
 NewTV农业致富,http://tv.lovelytuaner.top:33455/itv/2000000003000000003.m3u8?cdn=hnbblive
-NewTV武博世界,http://tv.lovelytuaner.top:33455/itv/2000000003000000007.m3u8?cdn=hnbblive
 NewTV炫舞未来,http://tv.lovelytuaner.top:33455/itv/1000000001000000515.m3u8?cdn=ystenlive
 NewTV怡伴健康,http://tv.lovelytuaner.top:33455/itv/1000000005000266011.m3u8?cdn=ystenlive
 NewTV中国功夫,http://tv.lovelytuaner.top:33455/itv/2000000003000000009.m3u8?cdn=hnbblive
