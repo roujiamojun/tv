@@ -142,6 +142,7 @@ CCTV17,http://192.168.100.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 河南国际,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226434/index.m3u8?servicetype=1
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226376/index.m3u8
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8
+舞阳新闻综合,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 舞阳新闻综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
 
 电影轮播,#genre#
