@@ -298,8 +298,6 @@ CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8
 舞阳新闻综合,http://live.dxhmt.cn:9081/tv/11121-1.m3u8
 舞阳新闻综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
-
-河南卫视,http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226344/index.m3u8
 河南都市,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226430/index.m3u8?servicetype=1
 河南民生,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226685/index.m3u8?servicetype=1
 河南电视剧,http://[2409:8087:441a:20:101:211:601:6]:6610/PLTV/88888888/224/3221226437/index.m3u8?servicetype=1
