@@ -61,6 +61,8 @@ CCTV16,http://192.168.100.1:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV17,http://192.168.100.1:35455/ysptp/cctv17.m3u8
 CCTV17,http://192.168.100.1:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://192.168.100.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k_10m.m3u8
+CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k.m3u8
 
 
 卫视频道,#genre#
