@@ -63,6 +63,8 @@ CCTV17,http://192.168.100.1:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://192.168.100.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k_10m.m3u8
 CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k.m3u8
+CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_120m.m3u8
+CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 
 
 卫视频道,#genre#
@@ -217,7 +219,7 @@ IHOT爱院线,http://192.168.100.1:35455/itv/6000000006000030630.m3u8?cdn=wasusy
 咪咕体育,#genre#
 
 
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+咪咕视频,http://192.168.100.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
 咪咕视频,http://192.168.100.1:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 咪咕视频,http://192.168.100.1:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
 咪咕视频,http://192.168.100.1:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
