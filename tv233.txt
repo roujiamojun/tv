@@ -120,6 +120,7 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 浙江卫视,http://192.168.100.1:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.100.1:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.100.1:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
+凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 
 河南频道,#genre#
 河南4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
