@@ -1,6 +1,5 @@
 
 央视频道,#genre#
-
 CCTV1,http://192.168.100.1:35455/ysptp/cctv1.m3u8
 CCTV1,http://192.168.100.1:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV1,http://192.168.100.1:35455/itv/5000000004000002226.m3u8?cdn=bestzb
@@ -63,6 +62,7 @@ CCTV17,http://192.168.100.1:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV17,http://192.168.100.1:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k_10m.m3u8
 CCTV4K,http://192.168.100.1:35455/ysptp/cctv4k.m3u8
+CCTV4K,http://192.168.100.1:35455/tptv/G_CCTV-4K-HD.m3u8
 CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 
 
@@ -120,7 +120,7 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 浙江卫视,http://192.168.100.1:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.100.1:35455/itv/1000000001000001096.m3u8?cdn=ystenlive
 重庆卫视,http://192.168.100.1:35455/itv/1000000005000265017.m3u8?cdn=ystenlive
-凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 
 河南频道,#genre#
 河南4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
@@ -150,7 +150,6 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 舞阳新闻综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
 
 电影轮播,#genre#
-
 豆瓣高分,http://192.168.100.1:35455/douyu/8770422
 科幻电影,http://192.168.100.1:35455/douyu/4332
 华语电影,http://192.168.100.1:35455/douyu/276200
@@ -161,7 +160,6 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 
 
 NEWTV,#genre#
-
 NewTV精品大剧,http://192.168.100.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 NewTV精品纪录,http://192.168.100.1:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 NewTV精品体育,http://192.168.100.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
@@ -190,10 +188,7 @@ NewTV中国功夫,http://192.168.100.1:35455/itv/2000000003000000009.m3u8?cdn=hn
 NewTV黑莓电影,http://192.168.100.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV黑莓动画,http://192.168.100.1:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 
-
-
 IHOT,#genre#
-
 IHOT爱电竞,http://192.168.100.1:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
 IHOT爱谍战,http://192.168.100.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
 IHOT爱动漫,http://192.168.100.1:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
@@ -214,16 +209,6 @@ IHOT爱喜剧,http://192.168.100.1:35455/itv/6000000006000010630.m3u8?cdn=wasusy
 IHOT爱悬疑,http://192.168.100.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
 IHOT爱幼教,http://192.168.100.1:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
 IHOT爱院线,http://192.168.100.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
-
-咪咕体育,#genre#
-
-
-咪咕视频,http://192.168.100.1:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
-咪咕视频,http://192.168.100.1:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
 
 
 
