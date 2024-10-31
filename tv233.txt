@@ -149,7 +149,7 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 漯河新闻综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226530/index.m3u8
 舞阳新闻综合,http://[2409:8087:4402:20:1:1216:401:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226902/index.m3u8
 
-电影轮播,#genre#
+数字频道,#genre#
 豆瓣高分,http://192.168.100.1:35455/douyu/8770422
 科幻电影,http://192.168.100.1:35455/douyu/4332
 华语电影,http://192.168.100.1:35455/douyu/276200
@@ -157,58 +157,9 @@ CCTV8K,http://192.168.100.1:35455/ysptp/cctv8k_36m.m3u8
 欧美电影1,http://192.168.100.1:35455/douyu/36337
 欧美电影2,http://192.168.100.1:35455/douyu/252802
 欧美电影3,http://192.168.100.1:35455/douyu/20415
-
-
-NEWTV,#genre#
-NewTV精品大剧,http://192.168.100.1:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
-NewTV精品纪录,http://192.168.100.1:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
-NewTV精品体育,http://192.168.100.1:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
-NewTV精品萌宠,http://192.168.100.1:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
-NewTV爱情喜剧,http://192.168.100.1:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
-NewTV超级电视剧,http://192.168.100.1:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
-NewTV超级电影,http://192.168.100.1:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-NewTV超级体育,http://192.168.100.1:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-NewTV超级综艺,http://192.168.100.1:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
-NewTV潮妈辣婆,http://192.168.100.1:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
-NewTV东北热剧,http://192.168.100.1:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
-NewTV动作电影,http://192.168.100.1:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
-NewTV古装剧场,http://192.168.100.1:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
-NewTV欢乐剧场,http://192.168.100.1:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
-NewTV家庭剧场,http://192.168.100.1:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-NewTV金牌综艺,http://192.168.100.1:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
-NewTV惊悚悬疑,http://192.168.100.1:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
-NewTV军旅剧场,http://192.168.100.1:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
-NewTV军事评论,http://192.168.100.1:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
-NewTV魅力潇湘,http://192.168.100.1:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
-NewTV明星大片,http://192.168.100.1:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
-NewTV农业致富,http://192.168.100.1:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
-NewTV炫舞未来,http://192.168.100.1:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
-NewTV怡伴健康,http://192.168.100.1:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
-NewTV中国功夫,http://192.168.100.1:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
 NewTV黑莓电影,http://192.168.100.1:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 NewTV黑莓动画,http://192.168.100.1:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 
-IHOT,#genre#
-IHOT爱电竞,http://192.168.100.1:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
-IHOT爱谍战,http://192.168.100.1:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
-IHOT爱动漫,http://192.168.100.1:35455/itv/6000000006000280630.m3u8?cdn=wasusyt
-IHOT爱都市,http://192.168.100.1:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
-IHOT爱怀旧,http://192.168.100.1:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
-IHOT爱经典,http://192.168.100.1:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
-IHOT爱科幻,http://192.168.100.1:35455/itv/6000000006000020630.m3u8?cdn=wasusyt
-IHOT爱科学,http://192.168.100.1:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
-IHOT爱浪漫,http://192.168.100.1:35455/itv/6000000006000040630.m3u8?cdn=wasusyt
-IHOT爱历史,http://192.168.100.1:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
-IHOT爱旅行,http://192.168.100.1:35455/itv/6000000006000250630.m3u8?cdn=wasusyt
-IHOT爱奇谈,http://192.168.100.1:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-IHOT爱青春,http://192.168.100.1:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
-IHOT爱赛车,http://192.168.100.1:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
-IHOT爱体育,http://192.168.100.1:35455/itv/6000000006000290630.m3u8?cdn=wasusyt
-IHOT爱玩具,http://192.168.100.1:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
-IHOT爱喜剧,http://192.168.100.1:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
-IHOT爱悬疑,http://192.168.100.1:35455/itv/6000000006000050630.m3u8?cdn=wasusyt
-IHOT爱幼教,http://192.168.100.1:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
-IHOT爱院线,http://192.168.100.1:35455/itv/6000000006000030630.m3u8?cdn=wasusyt
 
 
 
