@@ -266,7 +266,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.c ... 21227382/index.m3u8
 吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 
 
-凤凰卫视,http://58.19.180.108:9981/stream ... 482778?profile=pass
+凤凰卫视,http://jxiptv.dpdns.org/stream/4gtv/null-3/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰卫视,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 
 
