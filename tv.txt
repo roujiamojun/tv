@@ -178,10 +178,7 @@ CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8
 湖南金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226413/index.m3u8
 
-三沙卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
-三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8
-三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8?cdn=bestzb
-
+三沙卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227218/index.m3u8
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227193/index.m3u8
