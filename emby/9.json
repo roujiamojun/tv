@@ -1,0 +1,14 @@
+{
+  "name": "第九放映室",
+  "description": "我的图标库",
+  "icons": [
+    {
+      "name": "图标1",
+      "url": "https://github.com/roujiamojun/tv/blob/main/emby/IMG_20240209_220000.png"
+    },
+    {
+      "name": "图标2",
+      "url": "https://github.com/roujiamojun/tv/blob/main/emby/mmexport1709726103016.png"
+    }
+  ]
+}
