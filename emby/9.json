@@ -4,11 +4,35 @@
   "icons": [
     {
       "name": "图标1",
-      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/IMG_20240209_220000.png"
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/IMG_20240209_220000.jpg"
     },
     {
       "name": "图标2",
-      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1709726103016.png"
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/IMG_20241216_214309_548.jpg"
+    },
+    {
+      "name": "图标3",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/IMG_20250310_160607_683.jpg"
+    },
+    {
+      "name": "图标4",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1709726103016.jpg"
+    },
+    {
+      "name": "图标5",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1734356668700.jpg"
+    },
+    {
+      "name": "图标6",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1741575448834.jpg"
+    },
+    {
+      "name": "图标7",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1768107298192.jpg"
+    },
+    {
+      "name": "图标8",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/profile.jpeg"
     }
   ]
 }
