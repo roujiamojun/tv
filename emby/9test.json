@@ -34,5 +34,13 @@
       "name": "图标8",
       "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/profile.jpeg"
     }
+        {
+      "name": "图标9",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/IMG_20240209_220000.png"
+    },
+    {
+      "name": "图标10",
+      "url": "https://cdn.jsdelivr.net/gh/roujiamojun/tv@main/emby/mmexport1709726103016.png"
+    }
   ]
 }
